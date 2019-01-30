@@ -1,0 +1,139 @@
+{
+    "The Anteatery": {
+        "URL": "https://uci.campusdish.com/LocationsAndMenus/TheAnteatery?locationId=3056&storeId=&mode=Daily&periodId=106&date=1%2F29%2F2019",
+        "menu": {
+            "Deli": [
+                {
+                    "name": "Ham and Swiss on Marble Rye",
+                    "calories": "210 Calories",
+                    "desc": "Ham, Swiss cheese, dill pickle and lettuce on marble rye bread with Dijon mayonnaise"
+                }
+            ],
+            "Dessert": [
+                {
+                    "name": "Hummingbird Cake",
+                    "calories": "260 Calories",
+                    "desc": "Banana & pineapple cake layered with vanilla cream cheese frosting"
+                }
+            ],
+            "Entr\u00e9e": [
+                {
+                    "name": "Chicken Pot Pie",
+                    "calories": "370 Calories",
+                    "desc": "Creamy chicken with potatoes, carrots, peas, celery and onion topped with a buttermilk biscuit"
+                }
+            ],
+            "Grill": [
+                {
+                    "name": "Gardenburger(R) Black Bean Veggie Burger",
+                    "calories": "270 Calories",
+                    "desc": "Hearty black bean burger made with brown rice, onions, corn, red bell peppers, chilies and a hint of garlic on a white roll"
+                }
+            ],
+            "Mongolian Grill": [
+                {
+                    "name": "Pork Burrito Bowl",
+                    "calories": "420 Calories",
+                    "desc": "Cilantro-lime brown rice topped with braised pork, charro beans, cheddar, lettuce and salsa verde"
+                }
+            ],
+            "Oven": [
+                {
+                    "name": "Meatball Stromboli",
+                    "calories": "330 Calories",
+                    "desc": "Italian meatballs, mozzarella, grilled red onion and crushed red pepper wrapped in pizza crust"
+                }
+            ],
+            "Produce Market": [
+                {
+                    "name": "Roasted Sweet Potatoes",
+                    "calories": "100 Calories",
+                    "desc": "Oven-roasted seasoned cubed sweet potatoes"
+                }
+            ],
+            "Saut\u00e9": [
+                {
+                    "name": "Vegan Cavatappi Alfredo",
+                    "calories": "380 Calories",
+                    "desc": "Cavatappi pasta tossed with creamy Daiya(R) mozzarella cheese sauce, topped with an almond-based parmesan topping"
+                }
+            ],
+            "Vegan Saut\u00e9": [
+                {
+                    "name": "Bacon Mac & Cheese",
+                    "calories": "250 Calories",
+                    "desc": "Cavatappi pasta tossed with creamy cheddar sauce, diced bacon and green onion"
+                }
+            ]
+        }
+    },
+    "Pippin Commons": {
+        "URL": "https://uci.campusdish.com/LocationsAndMenus/PippinCommons?locationId=4832&storeId=&mode=Daily&periodId=106&date=1%2F29%2F2019",
+        "menu": {
+            "Deli": [],
+            "Desserts": [
+                {
+                    "name": "Chocolate Chip Cookie",
+                    "calories": "130 Calories",
+                    "desc": "Freshly baked chewy cookie with semisweet chocolate chips"
+                }
+            ],
+            "Destination": [
+                {
+                    "name": "Pulled Pork Soft Tacos",
+                    "calories": "220 Calories",
+                    "desc": "Soft tacos filled with pulled pork, lettuce, Cheddar, tomato and jalapeno slices"
+                }
+            ],
+            "Fresh & Healthy": [
+                {
+                    "name": "Butternut Squash & Tomato Barley",
+                    "calories": "230 Calories",
+                    "desc": "Butternut squash and corn simmered with tomatoes and seasoned broth served over toasted barley"
+                }
+            ],
+            "Grill": [
+                {
+                    "name": "Gardenburger(R) Black Bean Veggie Burger",
+                    "calories": "270 Calories",
+                    "desc": "Hearty black bean burger made with brown rice, onions, corn, red bell peppers, chilies and a hint of garlic on a white roll"
+                }
+            ],
+            "Main Line": [
+                {
+                    "name": "Garden-Style Baked Cod",
+                    "calories": "180 Calories",
+                    "desc": "Oven-baked cod topped with a zucchini, Parmesan, herb and gluten-free panko topping"
+                }
+            ],
+            "Pizza": [
+                {
+                    "name": "Eggplant Parm Flatbread",
+                    "calories": "330 Calories",
+                    "desc": "Grilled eggplant, tomato topping, mozzarella and Parmesan on a whole grain flatbread"
+                }
+            ],
+            "Salad Bar": [
+                {
+                    "name": "Toasted Barley Salad",
+                    "calories": "60 Calories",
+                    "desc": "Toasted barley, cucumbers, cherry tomatoes and green onions tossed in a lemon-basil vinaigrette"
+                }
+            ],
+            "Saute": [
+                {
+                    "name": "Couscous",
+                    "calories": "100 Calories",
+                    "desc": "Asian seared pork loin "
+                }
+            ],
+            "Soups": [
+                {
+                    "name": "Chicken Noodle Soup",
+                    "calories": "90 Calories",
+                    "desc": "Tender chicken, egg noodles and vegetables simmered in savory chicken stock"
+                }
+            ]
+        }
+    }
+}
