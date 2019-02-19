@@ -36,14 +36,13 @@ def create_food(item):
     try:
         itemName = item.find(class_='viewItem').get_text()
     except:
-        itemName = item.find(class_='viewItem')
-        # itemName = 'Unknown name'
-    
+        itemName = 'Unknown name'
+
     try:
         itemCalories = item.find(class_='item__calories').get_text()
     except:
         itemCalories = 'Unknown calories'
-    
+
     try:
         itemContent = item.find(class_='item__content').get_text()
     except:
@@ -82,7 +81,7 @@ def gen_menus():
 
             allItems = cat.find(class_='menu__category')
             try:
-                items = allItems.find_all(class_='menu__items')
+                items = allItems.find_all(class_='menu__item')
             except:
                 continue
             for item in items:
