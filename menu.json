@@ -1,26 +1,86 @@
 {
     "The Anteatery": {
-        "URL": "https://uci.campusdish.com/LocationsAndMenus/TheAnteatery?locationId=3056&storeId=&mode=Daily&periodId=106&date=1%2F29%2F2019",
+        "URL": "https://uci.campusdish.com/LocationsAndMenus/TheAnteatery?locationId=3056&storeId=&mode=Daily&periodId=106&date=2%2F14%2F2019",
         "menu": {
             "Deli": [
                 {
-                    "name": "Ham and Swiss on Marble Rye",
-                    "calories": "210 Calories",
-                    "desc": "Ham, Swiss cheese, dill pickle and lettuce on marble rye bread with Dijon mayonnaise"
+                    "name": "Grilled Vegetable & Hummus Wrap",
+                    "calories": "190 Calories",
+                    "desc": "Grilled eggplant and zucchini, hummus, tomatoes, arugula and onion wrapped in a tortilla"
+                },
+                {
+                    "name": "Signature Chips",
+                    "calories": "170 Calories",
+                    "desc": "Crispy potato chips seasoned with a blend of peppers and garlic"
                 }
             ],
             "Dessert": [
                 {
-                    "name": "Hummingbird Cake",
-                    "calories": "260 Calories",
-                    "desc": "Banana & pineapple cake layered with vanilla cream cheese frosting"
+                    "name": "Chocolate Harvest Cake",
+                    "calories": "210 Calories",
+                    "desc": "Moist chocolate cake with apple, pear, cranberries and fall spices"
+                },
+                {
+                    "name": "Chocolate Chip Cookie",
+                    "calories": "130 Calories",
+                    "desc": "Freshly baked chewy cookie with semisweet chocolate chips"
+                },
+                {
+                    "name": "Oatmeal Raisin Cookie",
+                    "calories": "110 Calories",
+                    "desc": "Freshly baked chewy oatmeal cookie with raisins"
+                },
+                {
+                    "name": "Sugar Cookie",
+                    "calories": "120 Calories",
+                    "desc": "Freshly baked soft sugar cookie"
+                },
+                {
+                    "name": "Cherry Cheesecake Tart",
+                    "calories": "170 Calories",
+                    "desc": "Creamy cheesecake tart with rich cherry topping"
                 }
             ],
             "Entr\u00e9e": [
                 {
-                    "name": "Chicken Pot Pie",
-                    "calories": "370 Calories",
-                    "desc": "Creamy chicken with potatoes, carrots, peas, celery and onion topped with a buttermilk biscuit"
+                    "name": "Hearty Lasagna",
+                    "calories": "300 Calories",
+                    "desc": "Layers of pasta, ground beef and turkey, ricotta filling and spaghetti sauce topped with Parmesan"
+                },
+                {
+                    "name": "Brown Rice",
+                    "calories": "110 Calories",
+                    "desc": "Tender cooked brown rice"
+                },
+                {
+                    "name": "Jasmine Rice",
+                    "calories": "130 Calories",
+                    "desc": "Thai long grain rice with aromatic, nutty flavor"
+                },
+                {
+                    "name": "Garlic Broccoli",
+                    "calories": "40 Calories",
+                    "desc": "Sauteed broccoli florets with fresh garlic and black pepper"
+                },
+                {
+                    "name": "Hungarian Goulash Soup",
+                    "calories": "110 Calories",
+                    "desc": "Roasted beef, onions, carrots, tomatoes, paprika and garlic simmered in a rich beef stock"
+                },
+                {
+                    "name": "Moroccan Chickpea Soup",
+                    "calories": "70 Calories",
+                    "desc": "A hearty chickpea and vegetable soup flavored with toasted spices"
+                },
+                {
+                    "name": "Garlic Herb Breadstick",
+                    "calories": "180 Calories",
+                    "desc": "Freshly baked garlic herb breadstick"
+                },
+                {
+                    "name": "White Dinner Roll",
+                    "calories": "110 Calories",
+                    "desc": "Soft white dinner roll"
                 }
             ],
             "Grill": [
@@ -28,20 +88,55 @@
                     "name": "Gardenburger(R) Black Bean Veggie Burger",
                     "calories": "270 Calories",
                     "desc": "Hearty black bean burger made with brown rice, onions, corn, red bell peppers, chilies and a hint of garlic on a white roll"
+                },
+                {
+                    "name": "Hamburger on White Roll",
+                    "calories": "330 Calories",
+                    "desc": "Beef burger on white hamburger roll"
+                },
+                {
+                    "name": "Crispy Chicken Sandwich",
+                    "calories": "460 Calories",
+                    "desc": "Crispy breaded chicken on a roll"
+                },
+                {
+                    "name": "Grilled Cheese Sandwich",
+                    "calories": "320 Calories",
+                    "desc": "Classic grilled American cheese sandwich on white bread"
+                },
+                {
+                    "name": "Crispy Shoestring French Fries",
+                    "calories": "180 Calories",
+                    "desc": "Piping hot crispy shoestring French fries"
                 }
             ],
             "Mongolian Grill": [
                 {
-                    "name": "Pork Burrito Bowl",
-                    "calories": "420 Calories",
-                    "desc": "Cilantro-lime brown rice topped with braised pork, charro beans, cheddar, lettuce and salsa verde"
+                    "name": "Ramen Noodles",
+                    "calories": "100 Calories",
+                    "desc": "Hot ramen noodles"
+                },
+                {
+                    "name": "Miso Soup Broth",
+                    "calories": "25 Calories",
+                    "desc": "Rich, earthy Japanese-style broth"
                 }
             ],
             "Oven": [
                 {
-                    "name": "Meatball Stromboli",
-                    "calories": "330 Calories",
-                    "desc": "Italian meatballs, mozzarella, grilled red onion and crushed red pepper wrapped in pizza crust"
+                    "name": "Classic Cheese Pizza",
+                    "calories": "250 Calories",
+                    "desc": "Mozzarella cheese and pizza sauce"
+                },
+                {
+                    "name": "Pepperoni Pizza",
+                    "calories": "280 Calories",
+                    "desc": "Pepperoni, mozzarella and pizza sauce"
+                },
+                {
+                    "name": "Boom Boom Chicken Flatbread",
+                    "calories": "480 Calories",
+                    "desc": "Whole grain flatbread topped with chicken, pepperoni, mozzarella, banana peppers and Boom Boom sauce"
                 }
             ],
             "Produce Market": [
@@ -49,26 +144,30 @@
                     "name": "Roasted Sweet Potatoes",
                     "calories": "100 Calories",
                     "desc": "Oven-roasted seasoned cubed sweet potatoes"
-                }
-            ],
-            "Saut\u00e9": [
+                },
                 {
-                    "name": "Vegan Cavatappi Alfredo",
-                    "calories": "380 Calories",
-                    "desc": "Cavatappi pasta tossed with creamy Daiya(R) mozzarella cheese sauce, topped with an almond-based parmesan topping"
+                    "name": "Roasted Beets",
+                    "calories": "25 Calories",
+                    "desc": "Roasted beets"
+                },
+                {
+                    "name": "Homestyle Macaroni Salad",
+                    "calories": "290 Calories",
+                    "desc": "Elbow macaroni, celery, bell pepper, green onions and eggs blended in a creamy mayonnaise dressing"
                 }
             ],
+            "Saut\u00e9": [],
             "Vegan Saut\u00e9": [
                 {
-                    "name": "Bacon Mac & Cheese",
-                    "calories": "250 Calories",
-                    "desc": "Cavatappi pasta tossed with creamy cheddar sauce, diced bacon and green onion"
+                    "name": "Shrimp Pad Thai",
+                    "calories": "280 Calories",
+                    "desc": "Stir-fried shrimp, rice noodles, bean sprouts with scrambled egg in spicy-sweet sauce with peanuts"
                 }
             ]
         }
     },
     "Pippin Commons": {
-        "URL": "https://uci.campusdish.com/LocationsAndMenus/PippinCommons?locationId=4832&storeId=&mode=Daily&periodId=106&date=1%2F29%2F2019",
+        "URL": "https://uci.campusdish.com/LocationsAndMenus/PippinCommons?locationId=4832&storeId=&mode=Daily&periodId=106&date=2%2F14%2F2019",
         "menu": {
             "Deli": [],
             "Desserts": [
@@ -76,20 +175,30 @@
                     "name": "Chocolate Chip Cookie",
                     "calories": "130 Calories",
                     "desc": "Freshly baked chewy cookie with semisweet chocolate chips"
+                },
+                {
+                    "name": "Oatmeal Raisin Cookie",
+                    "calories": "110 Calories",
+                    "desc": "Freshly baked chewy oatmeal cookie with raisins"
+                },
+                {
+                    "name": "Sugar Cookie",
+                    "calories": "120 Calories",
+                    "desc": "Freshly baked soft sugar cookie"
                 }
             ],
             "Destination": [
                 {
-                    "name": "Pulled Pork Soft Tacos",
-                    "calories": "220 Calories",
-                    "desc": "Soft tacos filled with pulled pork, lettuce, Cheddar, tomato and jalapeno slices"
+                    "name": "Buffalo Chicken Wings",
+                    "calories": "450 Calories",
+                    "desc": "Boneless chicken wings coated with Buffalo sauce served with blue cheese dressing and celery sticks"
                 }
             ],
             "Fresh & Healthy": [
                 {
-                    "name": "Butternut Squash & Tomato Barley",
-                    "calories": "230 Calories",
-                    "desc": "Butternut squash and corn simmered with tomatoes and seasoned broth served over toasted barley"
+                    "name": "Vegan Kung Pao Chicken & Kale",
+                    "calories": "360 Calories",
+                    "desc": "Veggie stir-fry with meatless chicken strips, kale, garlic chili sauce, brown rice and peanuts"
                 }
             ],
             "Grill": [
@@ -97,41 +206,101 @@
                     "name": "Gardenburger(R) Black Bean Veggie Burger",
                     "calories": "270 Calories",
                     "desc": "Hearty black bean burger made with brown rice, onions, corn, red bell peppers, chilies and a hint of garlic on a white roll"
+                },
+                {
+                    "name": "Hamburger on White Roll",
+                    "calories": "330 Calories",
+                    "desc": "Beef burger on white hamburger roll"
+                },
+                {
+                    "name": "Grilled Herb Chicken Sandwich",
+                    "calories": "330 Calories",
+                    "desc": "Grilled garlic-herb marinated chicken"
+                },
+                {
+                    "name": "Hot Dog on Roll",
+                    "calories": "310 Calories",
+                    "desc": "Grilled hot dog on roll"
+                },
+                {
+                    "name": "Crispy Shoestring French Fries",
+                    "calories": "180 Calories",
+                    "desc": "Piping hot crispy shoestring French fries"
                 }
             ],
             "Main Line": [
                 {
-                    "name": "Garden-Style Baked Cod",
-                    "calories": "180 Calories",
-                    "desc": "Oven-baked cod topped with a zucchini, Parmesan, herb and gluten-free panko topping"
+                    "name": "Kale Pesto Crusted Cod",
+                    "calories": "190 Calories",
+                    "desc": "Tender cod filet topped a spicy kale pesto and gluten-free panko"
+                },
+                {
+                    "name": "Seasoned Rice",
+                    "calories": "130 Calories",
+                    "desc": "Long grain white rice seasoned with salt and pepper"
+                },
+                {
+                    "name": "Green Beans & Carrots",
+                    "calories": "45 Calories",
+                    "desc": "Seasoned fresh green beans and carrots"
                 }
             ],
             "Pizza": [
                 {
-                    "name": "Eggplant Parm Flatbread",
-                    "calories": "330 Calories",
-                    "desc": "Grilled eggplant, tomato topping, mozzarella and Parmesan on a whole grain flatbread"
+                    "name": "Classic Cheese Pizza",
+                    "calories": "250 Calories",
+                    "desc": "Mozzarella cheese and pizza sauce"
+                },
+                {
+                    "name": "Pepperoni Pizza",
+                    "calories": "280 Calories",
+                    "desc": "Pepperoni, mozzarella and pizza sauce"
+                },
+                {
+                    "name": "Primavera Pizza",
+                    "calories": "270 Calories",
+                    "desc": "Sauteed fresh squash, mushrooms, red onion and bell peppers, mozzarella and pizza sauce"
                 }
             ],
             "Salad Bar": [
                 {
-                    "name": "Toasted Barley Salad",
-                    "calories": "60 Calories",
-                    "desc": "Toasted barley, cucumbers, cherry tomatoes and green onions tossed in a lemon-basil vinaigrette"
+                    "name": "Fruited Bulgur Salad",
+                    "calories": "90 Calories",
+                    "desc": "Toasted bulgur wheat, apple, orange, vegetables and jalapeno tossed with orange and lime juices"
+                },
+                {
+                    "name": "Greek Zucchini Slaw",
+                    "calories": "80 Calories",
+                    "desc": "Shredded zucchini, red onion, Kalamata olive, feta and herb salad"
                 }
             ],
             "Saute": [
                 {
-                    "name": "Couscous",
-                    "calories": "100 Calories",
-                    "desc": "Asian seared pork loin "
+                    "name": "Lo Mein Noodles",
+                    "calories": "120 Calories",
+                    "desc": "Fresh cooked lo mein noodles"
+                },
+                {
+                    "name": "Asian Seared Chicken",
+                    "calories": "170 Calories",
+                    "desc": "Seared Asian-marinated chicken"
+                },
+                {
+                    "name": "Steamed Fresh Broccoli",
+                    "calories": "20 Calories",
+                    "desc": "Steamed fresh broccoli florets"
                 }
             ],
             "Soups": [
                 {
-                    "name": "Chicken Noodle Soup",
-                    "calories": "90 Calories",
-                    "desc": "Tender chicken, egg noodles and vegetables simmered in savory chicken stock"
+                    "name": "Ancho Beef Chili",
+                    "calories": "300 Calories",
+                    "desc": "Tender beef, tomatoes, black beans and onion, simmered with ancho, chipotle and chili peppers"
+                },
+                {
+                    "name": "Pasta Fagioli",
+                    "calories": "100 Calories",
+                    "desc": "Italian pasta and bean soup with carrots, onions, celery and garlic in a tomato-vegetable broth"
                 }
             ]
         }
